@@ -1,6 +1,6 @@
 
 SQL Data Analysis Project: Orders Insights
-This repository contains a comprehensive SQL project focused on analyzing sales data for a company. The project demonstrates proficiency in database management, data cleaning, and advanced SQL analysis techniques.
+This repository contains a comprehensive SQL project focused on analyzing sales data for abc company. The project demonstrates proficiency in database management, data cleaning, and advanced SQL analysis techniques.
 SQL Project provided by  RUTH KINGSLEY (https://www.youtube.com/watch?v=ryxfqzVG7i8&t=2260s)
 
 Key Features:
